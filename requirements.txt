@@ -1,0 +1,4 @@
+keras==2.12
+tensorflow==2.12
+tensorflow-addons==0.21.0
+vit-keras
